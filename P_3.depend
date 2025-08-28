@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1748299099 source:c:\users\fenat\desktop\c\p3\p_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1748359496 source:c:\users\fenat\onedrive\desktop\c\p3\p_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1748377759 source:c:\users\fenat\onedrive\documentos\tudo do 2\c\p3\p_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
